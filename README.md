@@ -1,0 +1,1 @@
+# syntellect-app
