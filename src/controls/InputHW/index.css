@@ -1,0 +1,14 @@
+.m_hw {
+    width: 500px;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.m_hw > * {
+    margin: 0 3px;
+}
+
+.m_hw .m_input {
+    width: 100%;
+}

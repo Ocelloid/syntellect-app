@@ -1,0 +1,14 @@
+.m_alert {
+    width: 500px;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.m_alert > * {
+    margin: 0 3px;
+}
+
+.m_alert .m_input {
+    width: 100%
+}

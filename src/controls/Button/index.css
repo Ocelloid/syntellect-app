@@ -1,0 +1,19 @@
+.m_button {
+    white-space: nowrap;
+    background-color: darkseagreen;
+    border: 1px solid green;
+    color: white;
+    font-size: 14px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.m_button:hover {
+    background-color: lightseagreen;
+    color: #fff;
+}
+
+.m_button:active {
+    background-color: darkolivegreen;
+    color: #fff;
+}

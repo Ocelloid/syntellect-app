@@ -1,0 +1,32 @@
+.m_country_wrapper {
+    width: 500px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.m_country_wrapper .m_input {
+    width: calc(100% - 6px);
+    margin: 0 3px;
+}
+
+.m_country_list {
+    padding-left: 10px;
+    display: grid;
+    position: absolute;
+    background: white;
+    width: 500px;
+}
+
+.m_country_element {
+    display: inline-flex;
+    margin: 1px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.m_country_element img {
+    height: 16px;
+    width: 30px;
+    padding-right: 5px;
+}
